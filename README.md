@@ -5,3 +5,6 @@ Vencord link: (https://vencordthemer.github.io/Vertical-Sidebar/Vertical%20Sideb
 .css download: https://github.com/vencordthemer/Vertical-Sidebar/archive/refs/heads/main.zip
 
 Home page: https://vencordthemer.github.io/home/
+
+![image](https://github.com/user-attachments/assets/99f16e20-6266-4b18-88d8-6310ed74227a)
+
